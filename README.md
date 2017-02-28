@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Theo Composing Software
 
 You can use the [editor on GitHub](https://github.com/21kishans/chris.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
