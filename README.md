@@ -1,6 +1,6 @@
 ## Theo Composing Software
 
-You can use the [editor on GitHub](https://github.com/21kishans/chris.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ANDY WRITES WHAT THE SOFTWARE DOES HERE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
